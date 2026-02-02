@@ -191,7 +191,7 @@ const Generator = () => {
                 </div>
 
                 <div>
-                  <Label htmlFor="hardest">Hardest Subject (Optional)</Label>
+                  <Label htmlFor="hardest">Hardest Topic (Optional)</Label>
                   <Input
                     id="hardest"
                     placeholder="E.g., Calculus"
